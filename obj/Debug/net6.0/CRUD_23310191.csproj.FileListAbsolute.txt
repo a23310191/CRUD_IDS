@@ -1,0 +1,15 @@
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\bin\Debug\net6.0\CRUD_23310191.exe
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\bin\Debug\net6.0\CRUD_23310191.deps.json
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\bin\Debug\net6.0\CRUD_23310191.runtimeconfig.json
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\bin\Debug\net6.0\CRUD_23310191.dll
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\bin\Debug\net6.0\CRUD_23310191.pdb
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\obj\Debug\net6.0\CRUD_23310191.csproj.AssemblyReference.cache
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\obj\Debug\net6.0\CRUD_23310191.GeneratedMSBuildEditorConfig.editorconfig
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\obj\Debug\net6.0\CRUD_23310191.AssemblyInfoInputs.cache
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\obj\Debug\net6.0\CRUD_23310191.AssemblyInfo.cs
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\obj\Debug\net6.0\CRUD_23310191.csproj.CoreCompileInputs.cache
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\obj\Debug\net6.0\CRUD_23310191.dll
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\obj\Debug\net6.0\refint\CRUD_23310191.dll
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\obj\Debug\net6.0\CRUD_23310191.pdb
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\obj\Debug\net6.0\CRUD_23310191.genruntimeconfig.cache
+D:\MisArchivos\Ingenieria\1°\IntroduccionDS\CRUD_23310191\obj\Debug\net6.0\ref\CRUD_23310191.dll
